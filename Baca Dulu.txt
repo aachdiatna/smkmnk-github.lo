@@ -1,0 +1,6 @@
+Admin Panel
+
+username :Admin1
+password : Demoadmin1
+
+Gantilah password ini
